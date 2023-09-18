@@ -1,4 +1,4 @@
-// Copyright 2020 Your Name <your_email>
+// Copyright 2023 Your Name <your_email>
 
 
 #include <gtest/gtest.h>
@@ -7,7 +7,6 @@
 #include <string>
 #include <vector>
 
-#include <header.hpp>
 
 bool operator==(const Book& a, const Book& b)
 {
